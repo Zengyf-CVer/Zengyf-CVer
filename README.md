@@ -3,7 +3,7 @@
 ### I'm Zengyf-CVer
 
 - 😄 AI enthusiasts, computer vision researchers.
--  ✨ e-mail：zyfiy1314@163.com
+-  ✨ e-mail：zenggis1314@gmail.com
 
 <img src="https://github-profile-trophy.vercel.app/?username=zengyf-cver&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
